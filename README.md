@@ -1,4 +1,4 @@
-# **NFT-marketplace-polygon**  
+# **Energy-marketplace-polygon**  
 ## 🔗https://polygon-dhaval-nft-marketplace.vercel.app/
 
 A full stack NFT marketplace built on Ethereum using Solidity, IPFS, Next.js, Ethers.js, Hardhat and then deploying it on Ploygon testnet network
